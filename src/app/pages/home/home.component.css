@@ -1,0 +1,13 @@
+home{
+  width: 100vw;
+  height: 100vh;
+}
+p{
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 70px;
+}
+
+.articles{
+  margin: 30px 70px;
+}

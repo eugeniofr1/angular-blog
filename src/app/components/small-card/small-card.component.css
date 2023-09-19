@@ -7,7 +7,7 @@
 }
 
 .small-card__photo > img{
-  max-width: 450px;
+  max-width: 350px;
 }
 .small-card__text > span{
   color: gray;
@@ -15,11 +15,11 @@
 
 .small-card__text > h2{
   margin: 10px 0;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .small-card__text > p{
-  font-size: 23px;
+  font-size: 16px;
 }
 
 

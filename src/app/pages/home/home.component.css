@@ -1,6 +1,5 @@
 .app-big-card{
   display: block;
-
 }
 p{
   font-weight: bold;
@@ -14,4 +13,9 @@ p{
   margin: 30px 70px;
   display: flex;
   column-gap: 30px;
+
+}
+
+.articles__others{
+  width: 50%;
 }

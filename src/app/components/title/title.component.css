@@ -6,20 +6,20 @@
 
 .container > h1{
   margin: 30px;
-  font-size: 150px;
+  font-size: 4.2em;
 }
 
 .container > p{
-  font-size: 60px;
+  font-size: 1.65em;
 }
 
 .title__input{
   display: flex;
   justify-content: space-between;
-  padding: 10px 3px;
+  padding: 3px;
   margin: 40px auto;
   border: solid black 1px;
-  width: 45%;
+  width: 37%;
   border-radius: 7px;
 
 }

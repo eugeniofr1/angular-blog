@@ -1,0 +1,22 @@
+.container__small-card{
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  margin-bottom: 25px;
+}
+
+.small-card__text > span{
+  color: gray;
+}
+
+.small-card__text > h2{
+  margin: 10px 0;
+  font-size: 30px;
+}
+
+.small-card__text > p{
+  font-size: 23px;
+}
+
+
+

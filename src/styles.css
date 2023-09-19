@@ -3,5 +3,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: FFFFFF;
+
 }
+
+body{
+  background-image: linear-gradient(#FFFFFF, #F1F1F3, #E9EAEC);
+}
+

@@ -1,13 +1,16 @@
-home{
-  width: 100vw;
-  height: 100vh;
+.app-big-card{
+  display: block;
+  
 }
 p{
   font-weight: bold;
   font-size: 20px;
   margin-left: 70px;
 }
-
-.articles{
+.articles__main{
+  width: 50%;
+}
+.container__articles{
   margin: 30px 70px;
+  display: flex;
 }
